@@ -1,0 +1,4 @@
+UPLOAD_PATH="/ssd1/upload_data"
+default_indexer="milvus"
+default_cache_dir="/ssd2/milvus_db/cache"
+input_shape=(224,224,3)
